@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1551e53c56f922545b3dda6d92c4d462
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyBoxSprite: {fileID: 21300032, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  - openBoxSprite: {fileID: 21300030, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
