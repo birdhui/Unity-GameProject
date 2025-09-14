@@ -1,4 +1,5 @@
 #  GPA-Run: Unity 3D 통학 시뮬레이션 게임
+![GPA-Run 게임 플레이 스크린샷](./GPA-Run_MainStart.png)
 
 ---
 
